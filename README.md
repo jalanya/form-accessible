@@ -1,5 +1,5 @@
 
-##Examples
+## Examples
 
 **"current_account"** page
 This is the current code which we use in create account.
@@ -11,7 +11,7 @@ This example is using the fieldset
 
 This example is using the role "radiogroup"
 
-##Resources
+## Resources
 
 Fieldset legend, aria-describedby, and radiogroup role
 
