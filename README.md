@@ -7,21 +7,21 @@ which are used in macOS and Windows(NVDA).
 ### **"current_account"** page.
 This is the current code which we use in create account.
 
-**macOS:** http://recordit.co/k1I9LEdRJW
-**Windows:** http://recordit.co/SUtn54XN7Q
+**macOS:** http://recordit.co/k1I9LEdRJW.
+**Windows:** http://recordit.co/SUtn54XN7Q.
 
 ### **"new_account_using_fieldset"** page.
 This example is using the fieldset
 
-**macOS:** http://recordit.co/xaekYBfDr2
-**Windows:** http://recordit.co/KQAB3UUEd8
+**macOS:** http://recordit.co/xaekYBfDr2.
+**Windows:** http://recordit.co/KQAB3UUEd8.
 
 ### **"new_account_using_role_radiogroup"** page.
 
 This example is using the role "radiogroup"
 
-**macOS:** http://recordit.co/2a6JvqwUSN
-**Windows:** http://recordit.co/JHP1UtRx7s
+**macOS:** http://recordit.co/2a6JvqwUSN.
+**Windows:** http://recordit.co/JHP1UtRx7s.
 
 ## Resources
 
